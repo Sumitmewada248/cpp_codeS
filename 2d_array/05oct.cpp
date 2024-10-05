@@ -21,6 +21,7 @@ for(int i=0;i<2;i++){
 cout<<endl;
 }
 */
+/*
 
 int arr[3][3];
 cout<<"enter 9 value \n";
@@ -44,7 +45,27 @@ for(int i=0;i<3;i++){
 
 cout<<endl;
 }
+*/
+int arr[3][3];
+int sum=0;
+cout<<"enter 9 value \n";
+for(int i=0;i<3;i++){
+    for(int j=0;j<3;j++){
+  cin>>arr[i][j];
+    }
+}
 
+cout<<"\n sum of the values \n";
 
+for(int i=0;i<3;i++){
+    for(int j=0;j<3;j++){
+            sum=sum+arr[i][j];
+    
+}
 
 }
+cout<<sum;
+}
+
+
+
