@@ -10,6 +10,7 @@ if(b>10){
 cout<<a<<"*"<<b<<"= "<< a*b<<endl;
 table(a,b+1);
 
+
 }
 
 int main(){
