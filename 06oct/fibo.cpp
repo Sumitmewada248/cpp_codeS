@@ -17,6 +17,4 @@ int main(){
     }
   // cout<<fibo<<"\n";
 
-
-
 }
