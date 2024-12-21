@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
-
+// Pasword
 int main()
 {
     char c[10];
