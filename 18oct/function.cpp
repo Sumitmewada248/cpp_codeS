@@ -14,10 +14,13 @@ int main()
     if(strcmp(c,v)==0)
 {
 
+    
     cout<<"pwd matched"<<"\n";
 
+    
 }
 else{
+    
     cout<<"pwd not matched"<<"\n";
 
 }
